@@ -1,6 +1,0 @@
-3 learning goals for backend devolopment
------------------------
-
-1. Learn to design and implement RESTful API's using node.js and Express.js
-2. To learn database managment using mongoDB and SQL
-3. Understanding Autherisation, Authentication and System for best practices in backend devolopment
